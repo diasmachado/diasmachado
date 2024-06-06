@@ -26,7 +26,7 @@
 
 ### Github Repos
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=diasmachado&repo=PackageTemplate&show_owner=true)](https://github.com/diasmachado/TruckConnect)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=diasmachado&repo=TruckConnect&show_owner=true)](https://github.com/diasmachado/TruckConnect)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=diasmachado&repo=Foods-Ecommerce&show_owner=true)](https://github.com/diasmachado/Foods-Ecommerce)
 
 <h3> Contatos </h3>

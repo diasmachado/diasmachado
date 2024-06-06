@@ -4,11 +4,7 @@
 </p>
 
 ### Eu sou Eduardo Dias Machado
-> Academico de ciencia da computação na UNIOESTE
-
-
-<img src="https://komarev.com/ghpvc/?username=anandmainali" alt="anandmainali" />
-
+> Academico de ciencia da computação na UNIOESTE'
 <div>
  <p>
 </p>
@@ -26,21 +22,19 @@
 
 ### Github Stats
 
-[![Anand K. Mainali GitHub Stats](https://github-readme-stats.vercel.app/api?username=anandmainali&show_icons=true&count_private=true)](https://github.com/anandmainali)
+[![Eduardo Dias GitHub Stats](https://github-readme-stats.vercel.app/api?username=diasmachado&show_icons=true&count_private=true)](https://github.com/diasmachado)
 
 ### Github Repos
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=anandmainali&repo=PackageTemplate&show_owner=true)](https://github.com/anandmainali/PackageTemplate)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=anandmainali&repo=Foods-Ecommerce&show_owner=true)](https://github.com/anandmainali/Foods-Ecommerce)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=diasmachado&repo=PackageTemplate&show_owner=true)](https://github.com/diasmachado/PackageTemplate)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=diasmachado&repo=Foods-Ecommerce&show_owner=true)](https://github.com/diasmachado/Foods-Ecommerce)
 
 <h3> 🤝🏻 Connect with Me </h3>
 
 <p align="center">
-<a href="https://www.anandmainali.com.np" target="_blank"><img alt="Website" src="https://img.shields.io/badge/Website-www.anandmainali.com.np-blue?style=flat&logo=google-chrome"></a>
-<a href="https://www.linkedin.com/in/anandmainali/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-@anandmainali-blue?style=flat&logo=linkedin"></a>
-<a href="https://stackoverflow.com/users/8519896/anand-mainali?tab=profile" target="_blank"><img alt="Stack Overflow" src="https://img.shields.io/badge/Stackoverflow-Anand%20Mainali-blue?style=flat&logo=stackoverflow"></a>
-<a href="mailto:anandmainali5@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-anandmainali5@gmail.com-blue?style=flat&logo=gmail"></a>
+<a href="www.linkedin.com/in/eduardo-dias-machado-034b4b30a" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-@anandmainali-blue?style=flat&logo=linkedin"></a>
+<a href="mailto:eduardodiasmachado7979@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-anandmainali5@gmail.com-blue?style=flat&logo=gmail"></a>
 </p>
 
 
-⭐️ From [@anandmainali](https://github.com/anandmainali)
+⭐️ From [@anandmainali](https://github.com/diasmachado)

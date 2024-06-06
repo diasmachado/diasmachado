@@ -32,7 +32,7 @@
 <h3> Contatos </h3>
 
 <p align="center">
-<a href="www.linkedin.com/in/eduardo-dias-machado-034b4b30a" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-@diasmachado-blue?style=flat&logo=linkedin"></a>
-<a href="mailto:eduardodiasmachado7979@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-diasmachado-blue?style=flat&logo=gmail"></a>
+<a href="www.linkedin.com/in/eduardo-dias-machado-034b4b30a" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Eduardo Dias Machado-blue?style=flat&logo=linkedin"></a>
+<a href="mailto:eduardodiasmachado7979@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-eduardodiasmachado7979@gmail.com-blue?style=flat&logo=gmail"></a>
 </p>
 
